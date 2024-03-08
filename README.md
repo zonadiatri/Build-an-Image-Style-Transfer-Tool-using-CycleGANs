@@ -1,5 +1,6 @@
 
 # Build an Image Style Transfer Tool using CycleGANs
+![image](https://github.com/zonadiatri/Build-an-Image-Style-Transfer-Tool-using-CycleGANs/assets/150646579/d5ef2984-4314-4aa0-aa9e-be41e47eea12)
 
 Author :  
 - Roxanne Li (Data Scientis at IBM)
