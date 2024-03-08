@@ -25,10 +25,7 @@ Pada Project ini mempelajari cara membuat alat transfer gaya yang dapat "menerje
 
 ## Tech Stack
 - Python
-- JavaScript
-- CSS
-- HTML
-- Dockerfile
+
 
 
 ## Setup
