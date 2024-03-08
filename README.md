@@ -53,5 +53,9 @@ Pada Project ini mempelajari cara membuat alat transfer gaya yang dapat "menerje
 ## Model
 ![alt text](https://github.com/zonadiatri/Build-an-Image-Style-Transfer-Tool-using-CycleGANs/blob/main/model.png?raw=true)
 
+## Status
+
+Project status : Completed
+
 
 
